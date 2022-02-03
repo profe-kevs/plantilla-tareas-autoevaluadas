@@ -1,8 +1,8 @@
-# Autograding Example: Python
-This example project is written in Python, and tested with pytest.
+# Tarea {00}
+Tarea 00 sobre ...
 
-### The assignment
-The tests are failing right now because the method isn't outputting the correct string. Fixing this up will make the tests green.
+### Descripción
+Las pruebas están fallando en este momento porque el método no genera la cadena correcta. Arregla esto para que las pruebas sean verdes (es decir, pasen con éxito).
 
 ### Setup command
 `sudo -H pip3 install pytest`
@@ -10,5 +10,5 @@ The tests are failing right now because the method isn't outputting the correct 
 ### Run command
 `pytest`
 
-### Notes
+### Notas
 - pip's install path is not included in the PATH var by default, so without installing via `sudo -H`, pytest would be unaccessible.
